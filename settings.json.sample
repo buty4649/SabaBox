@@ -1,0 +1,12 @@
+{
+    "mackerel": {
+        "apikey": "<APIKEY>"
+    },
+    "wifi": {
+        "<SSID>": "<PASSWORD>"
+    },
+    "plugins": [
+        "counter"
+    ],
+    "autodisplayoff": 20
+}
